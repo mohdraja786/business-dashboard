@@ -1,0 +1,6 @@
+body { font-family: 'Arial', sans-serif; background-color: #f4f7f6; margin: 0; padding: 20px; }
+header { background: #333; color: white; padding: 1rem; text-align: center; }
+.card { background: white; padding: 20px; margin-top: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+th { background-color: #f8f8f8; }
